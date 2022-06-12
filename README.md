@@ -1,5 +1,5 @@
 # Paradise GTK3 Theme
-Made possible with [Phocus](https://github.com/phocus/gtk3)
+Made possible with [Phocus](https://github.com/phocus/gtk)
 
 ## Installation
 
