@@ -1,6 +1,8 @@
 # Paradise GTK3 Theme
 Made possible with [Phocus](https://github.com/phocus/gtk)
 
+![](./preview.png) 
+
 ## Installation
 
 ```bash
